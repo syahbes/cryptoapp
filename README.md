@@ -9,7 +9,7 @@ Using Ant Design to create UIs,
 Creating charts using Chart.js, and fetching data from multiple sources using RapidAPI
 
 Live at :
-
+https://crypto-esc-react.netlify.app/
 
 
 This channel has taught me a lot:
