@@ -12,7 +12,7 @@ Creating charts using Chart.js, and fetching data from multiple sources using Ra
 
 Live at :
 https://crypto-esc-react.netlify.app/
-
+<img src="https://i.postimg.cc/TwYyF3q0/full-view.png" alt="full view">
 
 This channel has taught me a lot:
 https://www.youtube.com/c/JavaScriptMastery
