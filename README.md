@@ -12,4 +12,5 @@ Creating charts using Chart.js, and fetching data from multiple sources using Ra
 
 Live at :
 https://crypto-esc-react.netlify.app/
-<img src="https://i.postimg.cc/TwYyF3q0/full-view.png" alt="full view">
+![image](https://github.com/syahbes/cryptoapp/assets/99732661/dbb025c2-cef6-484f-974a-d9943c3771d9)
+
